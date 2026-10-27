@@ -4,4 +4,6 @@ version = "0.1.0"
 description = "Enterprise Grade Application RAG"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "streamlit>=1.66.1",
+]
